@@ -1,0 +1,44 @@
+body { 
+    background-color:black;
+    
+}
+
+
+h1 {
+    color:rgb(192, 105, 6);
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Indie Flower', cursive; ;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+p {
+    color:rgb(2, 75, 71);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    width: 70%;
+    text-align: center;
+    line-height: 100%;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive; ;
+}
+    
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:rgb(148, 97, 8);
+        color: white;
+        text-align: center;
+    }
+    
